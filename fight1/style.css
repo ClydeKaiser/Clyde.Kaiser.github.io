@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #999;
+}
+
+
+
+.navBar {
+  border: double;
+  text-align: center;
+  color: #e3daa1;
+}
+
+.navBar h3 {
+  display: inline-block;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.navBar h3:hover {
+  background-color: black
+}
+
+.main{
+  background-image: radial-gradient(black, black, transparent);
+  margin: -5px;
+  padding: 20px;
+  color: #e3daa1;
+  border: double;
+}
+
+h1{
+  text-align: center;
+}
+
+img{
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+
+.description{
+  text-align: center;
+  border: double
+}

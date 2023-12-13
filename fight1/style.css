@@ -44,5 +44,6 @@ img{
 
 .description{
   text-align: center;
-  border: double
+  border: double;
+  font-size: 20px;
 }

@@ -43,6 +43,7 @@ img{
 }
 
 .description{
+  margin-top: 20px;
   text-align: center;
   border: double;
   font-size: 20px;

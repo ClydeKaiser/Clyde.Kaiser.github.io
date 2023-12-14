@@ -7,6 +7,13 @@ body {
 }
 
 
+a {
+  color: #e3daa1;
+}
+
+a:visited{
+  color:  #e3daa1;
+}
 
 .navBar {
   border: double;

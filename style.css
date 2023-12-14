@@ -270,3 +270,12 @@ a:visited{
 .fight4:hover p{
   opacity: 1;
 }
+
+
+.about{
+  border-style: double;
+  color: #e3daa1;
+  background-image: radial-gradient(black, black, transparent);
+  margin-top: 20px;
+  padding: 20px;
+}

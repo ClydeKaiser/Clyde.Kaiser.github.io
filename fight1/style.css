@@ -53,9 +53,55 @@ img{
 }
 
 .description{
-  flex: 50%;
+  flex: 1;
   margin-top: 20px;
   text-align: center;
   border: double;
   font-size: 20px;
+}
+
+p{
+  padding: 20px;
+}
+
+h2{
+  padding-left: 20px;
+}
+
+.bet{
+  border: double;
+}
+
+fieldset{
+  text-align: center;
+  margin: 30px;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+#betBtn {
+  border: none;
+  background-color: #e3daa1;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+  margin-bottom: 20px;
+}
+
+#betBtn:hover{
+  background-color: white;
 }

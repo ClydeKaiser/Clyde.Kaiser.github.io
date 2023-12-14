@@ -37,13 +37,15 @@ a:visited{
   margin-top: 20px;
   padding-left: 20px;
   padding-right: 20px;
+  background-image: radial-gradient(black, black, transparent);
 }
 .holder{
   border: double;
-  color: black;
+  color: white;
   text-align: center;
   padding: 50px 50px;
   margin-bottom: 20px;
+  
 }
 
 .flex{
@@ -57,11 +59,12 @@ a:visited{
   margin-top: 20px;
   padding-left: 20px;
   padding-right: 20px;
+  background-image: radial-gradient(black, black, transparent);
 }
 
 .previous div{
   border: double;
-  color: black;
+  color: white;
   text-align: center;
   padding: 50px 50px;
   margin-bottom: 20px;

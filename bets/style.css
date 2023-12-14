@@ -6,7 +6,13 @@ body {
   background-color: #999;
 }
 
+a {
+  color: #e3daa1;
+}
 
+a:visited{
+  color: #e3daa1;
+}
 
 .navBar {
   border: double;
